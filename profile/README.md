@@ -24,19 +24,20 @@
 ---
 
 
-[![`Ajay o s`](https://github.com/Ajay-o-s.png?size=100)](#devajay-o-s)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+<a href="https://github.com/Ajay-o-s"><img alt="Ajay o s" title="Ajay o s" src="https://github.com/Ajay-o-s.png?size=100"/></a>
 
-[![`Arya Pradeep`](https://github.com/TB-SUDO.png?size=100)](#devarya-pradeep)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[![`Akshay Kumar`](https://github.com/TB-SUDO.png?size=100)](#devakshay-kumar)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+# ╔════════╬════╗&#160;&#160;&#160;&#160;
+# <a href="https://github.com/TB-SUDO"><img alt="Arya Pradeep" title="Arya Pradeep" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="https://github.com/akshay-011"><img alt="Akshay Kumar" title="Akshay Kumar" src="https://github.com/TB-SUDO.png?size=100"/></a>
 
-[![`Nimisha n s`](https://github.com/Nimisha-n-s.png?size=100)](#devnimisha-n-s)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[![`Akash Chem J`](https://github.com/ACJ007.png?size=100)](#devakash-chem-j)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[![`Akhiyar Muhammed`](https://github.com/TB-SUDO.png?size=100)](#devakhiyar-muhammed)
-
-[![`Fasila Kasim`](https://github.com/TB-SUDO.png?size=100)](#devfasila-kasim)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[![`Akarsh krishna A`](https://github.com/akarsh-krishna.png?size=100)](#devakarsh-krishna-a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[![`Afzal K Shajahan`](https://github.com/afzalshaji18.png?size=100)](#devafzal-k-shajahan)
-
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[![`Sidharth K Santhosh`](https://github.com/TB-SUDO.png?size=100)](#devsidharth-k-santhosh)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[![`Abhijith K S`](https://github.com/TB-SUDO.png?size=100)](#devabhijith-k-s)
-
-
-
-
+# ╔═╩═╗&#160;&#160;&#160;╔══╦══╦══╦═╩╦══╗
+<a href="https://github.com/Nimisha-n-s"><img alt="Nimisha N S" title="Nimisha N S" src="https://github.com/Nimisha-n-s.png?size=100"/></a>&#160;&#160;
+<a href="https://github.com/TB-SUDO"><img alt="Fasila Kasim" title="Fasila Kasim" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;
+<a href="https://github.com/afzalshaji18"><img alt="Afzal K Shajahan" title="Afzal K Shajahan" src="https://github.com/afzalshaji18.png?size=100"/></a>&#160;&#160;
+<a href="https://github.com/akarsh-krishna"><img alt="Akarsh krishna A" title="Akarsh krishna A" src="https://github.com/akarsh-krishna.png?size=100"/></a>&#160;&#160;
+<a href="https://github.com/ACJ007"><img alt="Akash Chem J" title="Akash Chem J" src="https://github.com/ACJ007.png?size=100"/></a>&#160;&#160;
+<a href="https://github.com/TB-SUDO"><img alt="Akhiyar Muhammed" title="Akhiyar Muhammed" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;
+<a href="https://github.com/TB-SUDO"><img alt="Abhijith K S" title="Abhijith K S" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;
+<a href="https://github.com/TB-SUDO"><img alt="Sidharth K Santhosh" title="Sidharth K Santhosh" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;
 
 ----
 <br>
@@ -49,18 +50,19 @@
 | ![#devajay-o-s](https://github.com/Ajay-o-s.png?size=100)               | [`Ajay o s`](https://github.com/Ajay-o-s)               | Admin, Developer|
 | ![#devakshay-kumar](https://github.com/TB-SUDO.png?size=100)            | [`Akshay Kumar`](https://github.com/akshay-011)         | Back-end Developer|
 | ![#devarya-pradeep](https://github.com/TB-SUDO.png?size=100)            | [`Arya Pradeep`](https://github.com/TB-SUDO)            | Back-end Developer|
-| ![#devnimisha-n-s](https://github.com/TB-SUDO.png?size=100)             | [`Nimisha n s`](https://github.com/TB-SUDO)             | Module finder and Module maker|
+| ![#devnimisha-n-s](https://github.com/TB-SUDO.png?size=100)             | [`Nimisha n s`](https://github.com/TB-SUDO)             | Module finder, Module maker|
 | ![#devakash-chem-j](https://github.com/ACJ007.png?size=100)             | [`Akash Chem J`](https://github.com/ACJ007)             | Front-end Developer |
 | ![#devakhiyar-muhammed](https://github.com/TB-SUDO.png?size=100)        | [`Akhiyar Muhammed`](https://github.com/TB-SUDO)        | Subject Matter Expert |
-| ![#devfasila-kasim](https://github.com/TB-SUDO.png?size=100)            | [`Fasila Kasim`](https://github.com/TB-SUDO)            | Module finder and Module maker|
+| ![#devfasila-kasim](https://github.com/TB-SUDO.png?size=100)            | [`Fasila Kasim`](https://github.com/TB-SUDO)            | Module finder, Module maker|
 | ![#devakarsh-krishna-a](https://github.com/akarsh-krishna.png?size=100) | [`Akarsh krishna A`](https://github.com/akarsh-krishna) | Graphic_designer |
 | ![#devafzal-k-shajahan](https://github.com/afzalshaji18.png?size=100)   | [`Afzal K Shajahan`](https://github.com/afzalshaji18)   | Graphic_designer |
-| ![#devsidharth-k-santhosh](https://github.com/TB-SUDO.png?size=100)     | [`Sidharth K Santhosh`](https://github.com/TB-SUDO)     | Module finder and Module maker|
-| ![#devabhijith-k-s](https://github.com/TB-SUDO.png?size=100)            | [`Abhijith K S`](https://github.com/TB-SUDO)            | Module finder and Module maker|
+| ![#devsidharth-k-santhosh](https://github.com/TB-SUDO.png?size=100)     | [`Sidharth K Santhosh`](https://github.com/TB-SUDO)     | Module finder, Module maker|
+| ![#devabhijith-k-s](https://github.com/TB-SUDO.png?size=100)            | [`Abhijith K S`](https://github.com/TB-SUDO)            | Module finder, Module maker|
 
 </div>
 
 ---
 
 
-Copyright &copy;[TB_SUDO](https://github.com/TB_SUDO) and &copy;[Ajay-o-s](https://github.com/Ajay-o-s)
+Copyright &copy;[TB_SUDO](https://github.com/TB_SUDO), &copy;[Ajay-o-s](https://github.com/Ajay-o-s)
+
