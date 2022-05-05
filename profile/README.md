@@ -62,5 +62,5 @@
 ---
 
 
-Copyright &copy;[TB-SUDO](https://github.com/TB-SUDO), &copy;[Ajay-o-s](https://github.com/Ajay-o-s)
+Copyright &copy;[TB-SUDO](https://github.com/TB-SUDO) and  Copyright &copy;[Ajay-o-s](https://github.com/Ajay-o-s)
 
