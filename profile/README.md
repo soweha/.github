@@ -32,7 +32,7 @@
 <a href="https://github.com/afzalshaji18"><img alt="Afzal K Shajahan" title="Afzal K Shajahan" src="https://github.com/afzalshaji18.png?size=100"/></a>&#160;&#160;
 <a href="https://github.com/akarsh-krishna"><img alt="Akarsh krishna A" title="Akarsh krishna A" src="https://github.com/akarsh-krishna.png?size=100"/></a>&#160;&#160;
 <a href="https://github.com/ACJ007"><img alt="Akash Chem J" title="Akash Chem J" src="https://github.com/ACJ007.png?size=100"/></a>&#160;&#160;
-<a href="https://github.com/TB-SUDO"><img alt="Akhiyar Muhammed" title="Akhiyar Muhammed" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;
+<a href="https://github.com/AKHIYAAR"><img alt="Akhiyar Muhammed" title="Akhiyar Muhammed" src="https://github.com/AKHIYAAR.png?size=100"/></a>&#160;&#160;
 <a href="https://github.com/TB-SUDO"><img alt="Abhijith K S" title="Abhijith K S" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;
 <a href="https://github.com/TB-SUDO"><img alt="Sidharth K Santhosh" title="Sidharth K Santhosh" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;
 
@@ -50,7 +50,7 @@
 | [![#devarya-pradeep](https://github.com/TB-SUDO.png?size=100)](https://github.com/TB-SUDO)            | [`Arya Pradeep`](https://github.com/TB-SUDO)            | Back-end Developer|
 | [![#devnimisha-n-s](https://github.com/Nimisha-n-s.png?size=100)]()             | [`Nimisha n s`](https://github.com/Nimisha-n-s)             | Module finder, Module maker|
 | [![#devakash-chem-j](https://github.com/ACJ007.png?size=100)](https://github.com/ACJ007)             | [`Akash Chem J`](https://github.com/ACJ007)             | Front-end Developer |
-| [![#devakhiyar-muhammed](https://github.com/TB-SUDO.png?size=100)](https://github.com/TB-SUDO)        | [`Akhiyar Muhammed`](https://github.com/TB-SUDO)        | Subject Matter Expert |
+| [![#devakhiyar-muhammed](https://github.com/AKHIYAAR.png?size=100)](https://github.com/AKHIYAAR)        | [`Akhiyar Muhammed`](https://github.com/AKHIYAAR)        | Subject Matter Expert |
 | [![#devfasila-kasim](https://github.com/TB-SUDO.png?size=100)](https://github.com/TB-SUDO)            | [`Fasila Kasim`](https://github.com/TB-SUDO)            | Module finder, Module maker|
 | [![#devakarsh-krishna-a](https://github.com/akarsh-krishna.png?size=100)](https://github.com/akarsh-krishna) | [`Akarsh krishna A`](https://github.com/akarsh-krishna) | Graphic_designer |
 | [![#devafzal-k-shajahan](https://github.com/afzalshaji18.png?size=100)](https://github.com/afzalshaji18)   | [`Afzal K Shajahan`](https://github.com/afzalshaji18)   | Graphic_designer |
