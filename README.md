@@ -60,12 +60,5 @@
 
 ---
 
-# **📊 GitHub Stats**
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TB-SUDO&show_icons=true&theme=highcontrast" alt="TB-SUDO" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TB-SUDO&theme=highcontrast" alt="TB-SUDO" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreza78&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub readme stats" width=405px>
-<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TB-SUDO&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
-
-</div>
 
 Copyright &copy;[TB-SUDO](https://github.com/TB-SUDO), &copy;[Ajay-o-s](https://github.com/Ajay-o-s)
