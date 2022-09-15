@@ -27,7 +27,7 @@
 <a href="https://github.com/Ajay-o-s"><img alt="Ajay o s" title="Ajay o s" src="https://github.com/Ajay-o-s.png?size=100"/></a>&#160;&#160;
 
 # ╔═══════╩══════╗&#160;&#160;&#160;&#160;
-# <a href="https://github.com/TB-SUDO"><img alt="Arya Pradeep" title="Arya Pradeep" src="https://github.com/TB-SUDO.png?size=100"/></a>══<a href="https://github.com/Nimisha-n-s"><img alt="Nimisha N S" title="Nimisha N S" src="https://github.com/Nimisha-n-s.png?size=100"/></a>══<a href="https://github.com/TB-SUDO"><img alt="Fasila Kasim" title="Fasila Kasim" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="https://github.com/akshay-011"><img alt="Akshay Kumar" title="Akshay Kumar" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;&#160;
+# <a href="https://github.com/aryapradeep212"><img alt="Arya Pradeep" title="Arya Pradeep" src="https://github.com/aryapradeep212.png?size=100"/></a>══<a href="https://github.com/Nimisha-n-s"><img alt="Nimisha N S" title="Nimisha N S" src="https://github.com/Nimisha-n-s.png?size=100"/></a>══<a href="https://github.com/TB-SUDO"><img alt="Fasila Kasim" title="Fasila Kasim" src="https://github.com/TB-SUDO.png?size=100"/></a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="https://github.com/akshay-011"><img alt="Akshay Kumar" title="Akshay Kumar" src="https://github.com/akshay-011.png?size=100"/></a>&#160;&#160;&#160;
 # ╔══╦══╦══╦══╦═╩╗
 <a href="https://github.com/afzalshaji18"><img alt="Afzal K Shajahan" title="Afzal K Shajahan" src="https://github.com/afzalshaji18.png?size=100"/></a>&#160;&#160;
 <a href="https://github.com/akarsh-krishna"><img alt="Akarsh krishna A" title="Akarsh krishna A" src="https://github.com/akarsh-krishna.png?size=100"/></a>&#160;&#160;
@@ -46,8 +46,8 @@
 |GITHUB|NAME|WORK|
 | ----------------------                                                  | ---------------------------------                       | ----------- |
 | [![#devajay-o-s](https://github.com/Ajay-o-s.png?size=100)](https://github.com/Ajay-o-s)               | [`Ajay o s`](https://github.com/Ajay-o-s)               | System administrator, Developer|
-| [![#devakshay-kumar](https://github.com/TB-SUDO.png?size=100)](https://github.com/akshay-011)            | [`Akshay Kumar`](https://github.com/akshay-011)         | Back-end Developer|
-| [![#devarya-pradeep](https://github.com/TB-SUDO.png?size=100)](https://github.com/TB-SUDO)            | [`Arya Pradeep`](https://github.com/TB-SUDO)            | Back-end Developer|
+| [![#devakshay-kumar](https://github.com/akshay-011.png?size=100)](https://github.com/akshay-011)            | [`Akshay Kumar`](https://github.com/akshay-011)         | Back-end Developer|
+| [![#devarya-pradeep](https://github.com/aryapradeep212.png?size=100)](https://github.com/aryapradeep212)            | [`Arya Pradeep`](https://github.com/aryapradeep212)            | Back-end Developer|
 | [![#devnimisha-n-s](https://github.com/Nimisha-n-s.png?size=100)]()             | [`Nimisha n s`](https://github.com/Nimisha-n-s)             | Module finder, Module maker|
 | [![#devakash-chem-j](https://github.com/ACJ007.png?size=100)](https://github.com/ACJ007)             | [`Akash Chem J`](https://github.com/ACJ007)             | Front-end Developer |
 | [![#devakhiyar-muhammed](https://github.com/AKHIYAAR.png?size=100)](https://github.com/AKHIYAAR)        | [`Akhiyar Muhammed`](https://github.com/AKHIYAAR)        | Subject Matter Expert |
