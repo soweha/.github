@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232DD309&size=28&lines=HI+Welcome+to;Team%20BLACK_SUDO;Nice+to+meet+you..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232DD309&size=28&lines=HI+Welcome+to;SO%20WE%20HA;Nice+to+meet+you..!)](https://git.io/typing-svg)
 <br>
 <div align="center">
 
@@ -41,7 +41,7 @@
 # ***Developers***
 
 
-|PROFILE|NAME|WORK|
+|GITHUB|NAME|WORK|
 | ----------------------                                                  | ---------------------------------                       | ----------- |
 | [![#devajayos](https://github.com/Ajayos.png?size=100)](https://github.com/Ajayos)               | [`Ajay o s`](https://github.com/Ajayos)               | System administrator, Developer|
 | [![#devakshay-kumar](https://github.com/soweha.png?size=100)](https://github.com/akshay-011)            | [`Akshay Kumar`](https://github.com/akshay-011)         | Back-end Developer|
@@ -59,4 +59,4 @@
 ---
 
 
-Copyright [&copy;soweha](https://github.com/soweha), [&copy;Ajayos](https://github.com/Ajayos)
+Copyright &copy;[soweha](https://github.com/soweha), &copy;[Ajayos](https://github.com/Ajayos)
